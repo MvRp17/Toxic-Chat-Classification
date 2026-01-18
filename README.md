@@ -48,7 +48,6 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 The trained model is deployed using **FastAPI**, exposing probability-based predictions to support flexible, threshold-driven moderation decisions.
 
-### Health Check
 
 ### Predict Toxicity
 
